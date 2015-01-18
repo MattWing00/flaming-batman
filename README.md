@@ -1,2 +1,3 @@
 # flaming-batman
-My Hello World repository has been edited
+My Hello World repository!
+:dromedary_camel:
